@@ -2,3 +2,5 @@
 /gemma_pytorch/
 generated-data/forum-messages.csv
 /meta-kaggle/
+.idea/
+.DS_Store
