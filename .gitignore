@@ -1,6 +1,6 @@
 /gemma/
 /gemma_pytorch/
-generated-data/forum-messages.csv
+data-generation/forum-messages.csv
 /meta-kaggle/
 .idea/
 .DS_Store
